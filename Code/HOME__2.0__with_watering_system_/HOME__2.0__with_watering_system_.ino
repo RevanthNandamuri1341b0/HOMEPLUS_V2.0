@@ -1,3 +1,14 @@
+/*
+Project name:- HOME+ 2.0
+Creator: Revanth Sai Nandamuri
+Date of last update:- 25/02/2021
+*/
+
+
+
+
+
+
 #define BLYNK_PRINT Serial    // Comment this out to disable prints and save space
 #include <SPI.h>
 #include <ESP8266WiFi.h>
@@ -5,8 +16,8 @@
 #include <SimpleTimer.h>
 #include <DHT.h>
 #include <Adafruit_Sensor.h>
-char auth[] = "d64b81d8af4c4eb596f10d7cf7665289"; 
-char ssid[] = "Nandamuri";
+char auth[] = "";     //CREATED IN THE APPLICATION
+char ssid[] = "";
 char pass[] = "9391198850";
 #define DHTPIN 2          // Digital pin 4
 //#define DHTTYPE DHT11     // DHT 11
