@@ -13,5 +13,9 @@ This is a simple Home automation project using [**NodeMCU**](https://www.nodemcu
 * [ANDROID](https://play.google.com/store/apps/details?id=cc.blynk)
 * [IOS](https://apps.apple.com/us/app/blynk-iot-for-arduino-esp32/id808760481)
 
-
-
+## ARDUINO IDE
+* [DOWNLOAD IDE](https://www.arduino.cc/en/Main.Software)
+* Preferences--> Aditional boards Manager URLs : [LINK1](https://dl.espressif.com/dl/package_esp32_index.json) | [LINK2](http://arduino.esp8266.com/stable/package_esp8266com_index.json)
+* Download boards:-
+  * [ESP8266 NodeMCU](https://github.com/esp8266/Arduino)
+  * [ESP32NodeMCU](https://github.com/espressif/arduino-esp32)
