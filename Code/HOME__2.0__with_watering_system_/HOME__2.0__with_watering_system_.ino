@@ -61,20 +61,20 @@ void moisture()
 //}
 }
 
-int flag=0;
+int bolfg=0;
 void notification()
 {
   int isButtonPressed = digitalRead(D5);
-  if (isButtonPressed==1 && flag==0) 
+  if (isButtonPressed==1 && bolfg==0) 
   {
     Serial.println("Fire in the House");
     Blynk.notify("Alert : Fire in the House");
     
-    flag=1;
+    bolfg=1;
   }
   else if (isButtonPressed==0)
   {
-    flag=0;
+    bolfg=0;
   }
   
 }
