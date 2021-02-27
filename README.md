@@ -23,3 +23,8 @@ This is a simple Home automation project using [**NodeMCU**](https://www.nodemcu
 
 ## Circuit diagram
 ![Circuit Diagram](https://github.com/RevanthNandamuri1341b0/HOMEPLUS_V2.0/blob/master/Images/Home+%202.0%20circuit%20diagram.jpg?raw=true)
+
+
+## Application Layout
+<img src="https://github.com/RevanthNandamuri1341b0/HOMEPLUS_V2.0/blob/master/Images/Screenshot_20190529-182138.jpg" alt="Layout"
+	title="layout" width="500" height="1000" />
