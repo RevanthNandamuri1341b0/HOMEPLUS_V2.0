@@ -1,13 +1,13 @@
 /*
-Author : Revanth Sai Nandamuri
-GitHUB : https://github.com/RevanthNandamuri1341b0
-Date of update : 25 April 2021
-Time of update : 17:24
-Project name :  HOME+ 2.0
-Domain : Embedded Systems and IOT
-Description : This is a simple Home automation project using NodeMCU and BLYNK
-File ID : 851796
-Modified by : #your name#
+*Author : Revanth Sai Nandamuri
+*GitHUB : https://github.com/RevanthNandamuri1341b0
+*Date of update : 25 April 2021
+*Time of update : 17:24
+*Project name :  HOME+ 2.0
+*Domain : Embedded Systems and IOT
+*Description : This is a simple Home automation project using NodeMCU and BLYNK
+*File ID : 851796
+*Modified by : #your name#
 */
 
 #define BLYNK_PRINT Serial // Comment this out to disable prints and save space
